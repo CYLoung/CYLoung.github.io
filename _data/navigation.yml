@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
 # main:
   - title: "About"
-    url: /docs/about/
+    url: /docs/_pages/about.md
   - title: "Paper"
     url: /year-archive/
   - title: "Categories"
