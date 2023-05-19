@@ -2,11 +2,26 @@
 main:
 #   - title: "Quick-Start Guide"
 #     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://cyloung.github.io/cyloung/about/
-  - title: "Paper"
-    url: /year-archive/
-  - title: "Code"
-    url: /collection-archive/
+#   - title: "About"
+#     url: https://cyloung.github.io/cyloung/about/
+#   - title: "Paper"
+#     url: /year-archive/
+#   - title: "Code"
+#     url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+# main:
+  - title: "About"
+    url: /docs/about/
+  - title: "Paper"
+    url: /year-archive/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+#   - title: "Pages"
+#     url: /page-archive/
+#   - title: "Collections"
+#     url: /collection-archive/
+#   - title: "External Link"
+#     url: https://google.com
