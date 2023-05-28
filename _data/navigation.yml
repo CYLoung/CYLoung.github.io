@@ -13,11 +13,9 @@ main:
 # main:
   - title: "About"
     url: /about/
-  - title: "Paper"
-    url: /year-archive/
-  - title: "Categories"
+  - title: "Paper&Code"
     url: /categories/
-  - title: "Tags"
+  - title: "TIL"
     url: /tags/
 #   - title: "Pages"
 #     url: /page-archive/
