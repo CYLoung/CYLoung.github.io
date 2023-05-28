@@ -13,7 +13,7 @@ main:
 # main:
   - title: "About"
     url: /about/
-  - title: "Paper&Code"
+  - title: "Paper & Code"
     url: /categories/
   - title: "TIL"
     url: /tags/
