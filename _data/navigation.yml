@@ -13,10 +13,10 @@ main:
 # main:
   - title: "About"
     url: /about/
-  - title: "Paper & Code"
+  - title: "Archives"
     url: /categories/
-  - title: "TIL"
-    url: /tags/
+#   - title: "TIL"
+#     url: /tags/
 #   - title: "Pages"
 #     url: /page-archive/
 #   - title: "Collections"
